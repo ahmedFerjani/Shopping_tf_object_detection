@@ -1,0 +1,6 @@
+#exclude images & training files 
+/images/*
+/training/*
+/export_inference_graph.py
+/model_main.py
+/pre-trained-model/*
